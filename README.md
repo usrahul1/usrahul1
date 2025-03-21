@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Rahul Urumu</h1>
-<h3 align="center">An aspiring and under-progress front end developer from India.</h3>
+<h3 align="center">An aspiring and under-progress developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usrahul1&label=Profile%20views&color=0e75b6&style=flat" alt="usrahul1" /> </p>
 
