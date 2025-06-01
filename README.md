@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Rahul Urumu</h1>
-<h3 align="center">An aspiring and under-progress front end developer from India.</h3>
+<h3 align="center">An aspiring and under-progress developer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usrahul1" alt="usrahul1" /></a> </p>
 
