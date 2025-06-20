@@ -21,8 +21,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=socketio" height="60" alt="Socket.IO" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
